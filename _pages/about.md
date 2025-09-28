@@ -44,3 +44,17 @@ Scientific Research
 ![MXene](/images/Research4.png)
 - Hygroscopic hydrogels offer cyclic transpiration cooling, mitigating local heat accumulation in integrated flexible electronics. However, the low thermal conductivity of traditional hygroscopic hydrogels poses a major challenge in meeting growing heat dissipation demands in electronics.
 - Hygroscopic capacity tests and molecular dynamics simulations reveal that the synergy between MXene and LiBr increases osmotic pressure and water diffusion rates, leading to more efficient moisture sorption. This highly thermally conductive hygroscopic hydrogel demonstrates efficient cyclic transpiration cooling, outperforming commercial heat dissipation films and conventional hygroscopic hydrogels, making it a promising candidate for advanced thermal management in electronics.
+
+
+Skills
+======
+- Familiar with the use of professional software such as Matlab, Python, Fluent, LAMMPS, CATIA, etc., and supercomputing platforms.
+- In-depth understanding of GCN neural networks, and skilled in Bayesian maximum entropy optimization algorithms.
+- Has participated in the application of Software copyright registration, patents, and project bidding.
+
+
+Honors
+======
+- •	Beijing Outstanding Graduate in 2025.
+- •	National Postgraduate Scholarship in 2024.
+- •	Second Prize for Academic Scholarship in 2020.
