@@ -23,7 +23,7 @@ GPA: 3.7/4.0
 
 Scientific Research
 ======
-[**Hyperthermal erosion of knitted graphene-nanoribbon sheet under atomic oxygen bombardment.**](https://www.sciencedirect.com/science/article/pii/S0017931024003727)
+<center>[**Hyperthermal erosion of knitted graphene-nanoribbon sheet under atomic oxygen bombardment.**](https://www.sciencedirect.com/science/article/pii/S0017931024003727)</center>
 
 ![KGS](/images/Research1.png)
 
