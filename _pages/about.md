@@ -20,3 +20,9 @@ GPA: 3.41/4.0
 09/2022 - 06/2025 M. Sc. in **Aerospace Science & Technology**  
 School of General Engineering, Beihang University (BUAA), Beijing, China  
 GPA: 3.7/4.0
+
+Scientific Research
+======
+[**Hyperthermal erosion of knitted graphene-nanoribbon sheet under atomic oxygen bombardment.**](https://www.sciencedirect.com/science/article/pii/S0017931024003727)
+
+With outstanding thermal, mechanical, and chemical properties, graphene has been proposed as a promising heat shield material for hypersonic applications. Knitted graphene composites have shown further improved properties, whose behavior under highly non-equilibrium hyperthermal conditions, however, is still unknown. This work investigates the hyperthermal erosion and mechanical behaviors of 2D and 2.5D knitted graphene-nanoribbon sheet (KGS) under hyperthermal atomic oxygen impact conditions using the Reactive Molecular Dynamics (RMD) method. The simultaneous analysis of the morphology evolution and gaseous products demonstrate that knitted structures possess improved anti-erosion and mechanical properties than those of the plain graphene, and the 2.5D knitted graphene structure shows better performance than those of 2D knitted ones. 2D structure porosity, ribbon aspect ratio, and 2.5D knitting volumetric porosity show significant influence on the hyperthermal erosion of materials under atomic oxygen bombardment, which suggests strategies for future optimization of knitted graphene properties.
