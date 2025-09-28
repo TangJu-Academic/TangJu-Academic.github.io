@@ -1,10 +1,16 @@
 ---
-permalink: /
-title: "Tang Ju (汤巨)"
+layout: archive
+title: "Publications & Presentations"
+permalink: /Publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
 ---
 
-I completed my undergraduate and master's degrees at Beihang University, majoring in Aerospace Science and Technology with a focus on multiscale heat and mass transfer, under the supervision of [Prof. Dongsheng Wen](https://www.epc.ed.tum.de/en/td/staff/wen/) and [Prof. Jin Zhao](https://shi.buaa.edu.cn/zhaojin/en/index.htm).
+{% include base_path %}
+
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
