@@ -26,8 +26,8 @@ main:
   #- title: "Publications & presentations"
   #  url: /Publications/
 
-  - title: "Skills & honors"
-    url: /Skills/
+  #- title: "Skills & honors"
+  #  url: /Skills/
     
   # - title: "CV"
   #   url: /cv-json/
