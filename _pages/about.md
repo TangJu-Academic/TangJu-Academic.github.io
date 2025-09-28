@@ -16,6 +16,7 @@ Education
 09/2018 - 06/2022 B. Sc. in Aerospace Engineering
     School of General Engineering, Beihang University (BUAA), Beijing, China
     GPA: 3.41/4.0
+
 09/2022 - 06/2025 M. Sc. in Aerospace Science & Technology
     School of General Engineering, Beihang University (BUAA), Beijing, China
     GPA: 3.7/4.0
