@@ -1,10 +1,11 @@
 ---
-title: "Hyperthermal erosion of knitted graphene-nanoribbon sheet under atomic oxygen bombardment"
+title: "Influence of surface nanostructures on the catalytic recombination of hyperthermal non-equilibrium flow"
 collection: publications
 category: manuscripts
 permalink: /Paper1
-date: 2024-4-17
-venue: 'International Journal of Heat and Mass Tansfer'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0017931024003727'
-citation: 'Tang, J., Zhao, J., Yao, G., Xing, H., Cao, Y., & Wen, D. (2024). Hyperthermal erosion of knitted graphene-nanoribbon sheet under atomic oxygen bombardment. International Journal of Heat and Mass Transfer, 227, 125541.'
+excerpt: 'Journal Impact Factor: 4.3. Category Quartile: Q1.'
+date: 2023-5-19
+venue: 'Physics of Fluids'
+paperurl: 'https://pubs.aip.org/aip/pof/article-abstract/35/4/042108/2882229/Influence-of-surface-nanostructures-on-the?redirectedFrom=fulltext'
+citation: 'He, L., Ye, Z., Cao, Y., Tang, J., Zhao, J., & Wen, D. (2023). Influence of surface nanostructures on the catalytic recombination of hyperthermal non-equilibrium flow. Physics of Fluids, 35(4).'
 ---
