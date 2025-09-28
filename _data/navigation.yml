@@ -24,10 +24,10 @@ main:
   #  url: /year-archive/
     
   - title: "Publications & presentations"
-    url: /cv/
+    url: /Publications/
 
   - title: "Skills & honors"
-    url: /cv/
+    url: /Skills/
     
   # - title: "CV"
   #   url: /cv-json/
